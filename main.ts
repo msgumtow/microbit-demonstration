@@ -1,3 +1,8 @@
+/**
+ * Microbit Demonstration
+ * 
+ * Ms. Gumtow
+ */
 input.onButtonPressed(Button.A, function () {
     basic.showString("HI")
     basic.clearScreen()
